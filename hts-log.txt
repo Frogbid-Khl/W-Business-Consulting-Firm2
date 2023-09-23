@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 23 Sep 2023 12:04:57 at https://unicktheme.com/bixola/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://unicktheme.com/bixola/index.html -O1 "C:\My Web Sites\consult2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:06:34	Error: 	"Not Found" (404) at link https://unicktheme.com/bixola/assets/vendors/owl-carousel/owl.video.play.png (from https://unicktheme.com/bixola/assets/vendors/owl-carousel/owl.carousel.min.css)
+12:06:34	Error: 	"Not Found" (404) at link https://unicktheme.com/bixola/assets/vendors/timepicker/images/ui-icons_444444_256x240.png (from https://unicktheme.com/bixola/assets/vendors/timepicker/timePicker.css)
+12:06:34	Error: 	"Not Found" (404) at link https://unicktheme.com/bixola/cart.html (from https://unicktheme.com/bixola/index2.html)
+12:06:34	Error: 	"Not Found" (404) at link https://unicktheme.com/bixola/news-1.html (from https://unicktheme.com/bixola/index3.html)
+12:06:34	Error: 	"Not Found" (404) at link https://unicktheme.com/bixola/assets/images/shapes/error-page-shape-1.png (from https://unicktheme.com/bixola/404.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 37 seconds : 412 links scanned, 406 files written (19977375 bytes overall) [13537145 bytes received at 139558 bytes/sec], 8632501 bytes transferred using HTTP compression in 99 files, ratio 23%, 68.6 requests per connection
+(5 errors, 0 warnings, 0 messages)
